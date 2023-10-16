@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.tite("Testing header")
+streamlit.title("Testing header")
