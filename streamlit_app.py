@@ -1,8 +1,11 @@
 import streamlit
 
-streamlit.title("Testing title")
+streamlit.title("New Healthy Menu")
 
-streamlit.header("Testing header")
-streamlit.text("Text1")
-streamlit.text("Text2")
-streamlit.text("Text3")
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞Avocado toast')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
